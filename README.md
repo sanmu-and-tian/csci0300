@@ -1,1 +1,1 @@
-# csci0300
+# computer constructor
