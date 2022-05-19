@@ -13,4 +13,6 @@
 9.改完make成功了，开始进一步优化make。弄完之后lab1也就结束了。
 10.回到project1，开始make snake文件，这里又要下载一堆没下的包。下好后直接make成功。
 11.开始下面对整体结构的介绍，有snake，game，board三大部分，开始一部分一部分的讲解具体结构。怎么写结构，用哪些数据结构。
-12.先到这里，该看The Game State Struct了
+12.先到这里，该看The Game State Struct了.
+14.Structure开始自己先看一下大致结构，然后自己编写了game的structure，又编写了mian函数，里面改了一下endgame，避免出现内存泄漏的问题，又写了game loop环，这里只是写了大致的函数体，实现要放在part1B来，又做了一下测试，发现还都能通过了，但是总感觉没有看到墙。
+
